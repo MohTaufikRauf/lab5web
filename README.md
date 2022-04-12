@@ -24,3 +24,7 @@ Selanjutnya masukan contoh kode berikut.
 </body>
 </html>
 ```
+
+Berikut tampilannya.
+
+![menambahkangambar](img/awal.png)
